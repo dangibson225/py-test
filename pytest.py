@@ -1,3 +1,4 @@
-print ("hello")
-name = input("whats your name: ")
+print ("Hello")
+name = input("Whats your name: ")
 print ("Hi " + str(name))
+print ("This is a python file")
